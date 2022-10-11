@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# course493run
+
+# ^c to quit
+export FLASK_ENV=development
+export FLASK_APP=course493
+flask run --host 0.0.0.0 --port 8000
