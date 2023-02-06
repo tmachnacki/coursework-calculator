@@ -1,6 +1,9 @@
 # University of Michigan EECS 493 final project: CourseWork Calculator
 An SPA built for U of M building their semester schedules. CourseWork 
-Calculator is built with Vuetify, Vue, Flask, sqlite, and selenium.
+Calculator is built with Vuetify, Vue, Flask, sqlite, and selenium. 
+Students can find and add courses to their backpack and/or schedule.
+They then can get an estimate for the amount of hours/week they should 
+expect to spend on coursework.
 
 Team members:
 - Timothy Machnacki: tmachnac
