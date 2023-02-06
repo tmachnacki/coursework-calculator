@@ -11,6 +11,10 @@ Team members:
 - Peter Murray: pjmurray
 - Robert Stewart: rstewa
 
+### Preview
+![preview](https://tmachnacki.github.io/assets/img/portfolio/CC/CC-home.png)
+![preview](https://tmachnacki.github.io/assets/img/portfolio/CC/CC-results.png)
+
 ## Project setup
 For Javascript/Vue:
 
